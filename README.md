@@ -195,7 +195,7 @@ Bütün sorular (32): [villaisiksusleme.com/sss](https://www.villaisiksusleme.co
 ## Belgeler
 
 - [Villa Işık Süsleme Firma Profili ve Künye](https://docs.google.com/document/d/14Ju0Y8kjXIgvklKJ6RfUMMCI-iJpI-26/edit?usp=sharing) (Google Drive)
-- [Villa Işık Süsleme Çalışma Yöntemi: Keşiften Söküme](https://drive.google.com/file/d/1xdJ8X-ID4LUJQazoAgxrxQBJmBOjUvY5/view?usp=sharing) (Google Drive)
+- [Villa Işık Süsleme Çalışma Yöntemi: Keşiften Söküme](https://docs.google.com/document/d/1Mf2_7Sxm1P67SCvHDeoKE5IR5WH85vMu/edit?usp=sharing) (Google Drive)
 - [Villa Işık Süsleme Fiyatları 2026: Paketler ve Fiyat Kalemleri](https://docs.google.com/document/d/1G63ZxQ1wwVijLKslXYPlG7zTfipnHEfc/edit?usp=sharing) (Google Drive)
 - [Villa Işık Süsleme Bölge, Hizmet ve Rehber Dizini](https://docs.google.com/document/d/1YmewP-EEPPSrxw6KB0b8T6XD2sH_ANn0/edit?usp=sharing) (Google Drive)
 - [Villa Işık Süsleme Sık Sorulan Sorular (32 soru)](https://docs.google.com/document/d/1kkGbN6LqwJdKLn0MpvH7f-dnxgbnazLu/edit?usp=sharing) (Google Drive)
