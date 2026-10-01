@@ -8,7 +8,7 @@
 
 > **Villa Işık Süsleme**, Umin Işık Süsleme firmasının İstanbul'daki villa, yalı, müstakil ev ve bahçeli konutlara yaptığı dış mekan yılbaşı ışık süslemesidir. Ürünler Ümraniye'deki atölyede hazırlanır; keşif, montaj, sezon içi servis ve Ocak'taki söküm aynı ekipten çıkar. Asıl site: **[villaisiksusleme.com](https://www.villaisiksusleme.com)**
 
-Bu repo markanın GitHub Pages sayfasını yayınlar: **[ismailgunaydn.github.io/villa-isik-susleme-istanbul](https://ismailgunaydn.github.io/villa-isik-susleme-istanbul/)**
+Bu repo markanın GitHub Pages sayfasını yayınlar: **[ismailgunaydn.github.io/villa-isik-susleme](https://ismailgunaydn.github.io/villa-isik-susleme/)**
 
 ## İçindekiler
 
@@ -224,6 +224,7 @@ Bütün sorular (32): [villaisiksusleme.com/sss](https://www.villaisiksusleme.co
 - [LinkedIn](https://www.linkedin.com/company/villaisiksusleme)
 - [Google İşletme Profili](https://share.google/Y9Uduoucno1gLeIZL)
 - [Yandex Haritalar](https://yandex.com.tr/maps/org/yilbasi_isik_susleme/7237296882/)
+- [GitHub Pages](https://ismailgunaydn.github.io/villa-isik-susleme/)
 
 **Kurucu: İsmail Günaydın**
 
